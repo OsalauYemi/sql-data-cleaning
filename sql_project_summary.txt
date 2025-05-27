@@ -1,0 +1,20 @@
+
+SQL Data Cleaning & Insights Project
+
+Overview:
+This project involves cleaning and analyzing a fictional sales dataset using SQL.
+Tasks include:
+- Removing incomplete records
+- Standardizing inconsistent values
+- Extracting key business insights
+
+Key Queries:
+- NULL removal
+- Region/product formatting
+- Revenue insights
+- Top product identification
+
+Tools Used:
+- PostgreSQL
+- SQL scripts
+- Sample data (CSV)
